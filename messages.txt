@@ -1,0 +1,6 @@
+$t03l047p:0x00000000_0xAA996655_0x556699AA*51f7 /* unlock_q */
+$t04l016p:0*f498 /* unlock_a ok */
+$t04l016p:1*6499 /* unlock_a bad */
+
+$t02l016p:0*54b3 /* hex_record_a ok */
+$t02l016p:1*c4b2 /* hex_record_a wrong checksum */
